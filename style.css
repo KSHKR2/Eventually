@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    Background-size: cover;
+    padding-top: 300px;
+    padding-left: 130px;
+    background-image: url(./bg01.jpg);
+    height: 68vh;
+}
+.main p{
+    color: rgba(255, 255, 255, 0.5);
+    padding-top: 20px;
+    font-size: 1.35em
+}
+.main2{
+    padding-top: 30px;
+}
+.main h2{
+    font-size: 70px;
+    color: white;
+}
+.main a{
+    color: rgba(255, 255, 255, 0.5);
+    border-bottom:  dotted 1px;
+    text-decoration: none;
+}
+.main a:hover{
+    cursor: pointer;
+    color: aqua;
+    border: none;
+}
+.main2 input{
+    width: 350px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.main2 input:hover{
+    border-color: rgb(97, 255, 255);
+}
+.main2 button{
+    width: 90px;
+    height: 50px;
+    border-radius:  10px;
+    background-color: #1cb495;
+    color: white;
+    font-size: 17px;
+}
+.main i{
+    color: white;
+    padding-top: 230px;
+    padding-right: 20px;
+}
